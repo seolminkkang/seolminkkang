@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me
 
 - 💻 백엔드 개발자 지망생  
-- 🏫 Samsung SW Academy for Youth (SSAFY) 10기 (2025.01 ~ )
+- 🏫 Samsung SW Academy for Youth (SSAFY) 13기 (2025.01 ~ )
 
 ---
 
